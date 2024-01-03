@@ -9,7 +9,7 @@
     "aboutme": "个人评价"
   },
   "avatar": {
-    "src": "https://github.com/JameChou/JameChou/blob/main/WechatIMG146.jpg",
+    "src": "https://raw.githubusercontent.com/JameChou/JameChou/master/WechatIMG146.jpg",
     "hidden": false
   },
   "profile": {
@@ -73,28 +73,28 @@
       "project_role": "开发、设计、运维",
       "project_time": "2023.04 - 至今",
       "project_desc": "开源项目，小程序前端框架。https://github.com/JameChou/geui/",
-      "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代 \n2. 设计思路、各组件使用文档的编写 https://geui.xyz/\n"
+      "project_content": "\n1. 独立负责产品从 0 到 1 的开发、产品功能迭代 \n2. 设计思路、各组件使用文档的编写 https://geui.xyz/\n"
     },
     {
       "project_name": "自行车功率计",
       "project_role": "产品开发及运维",
       "project_time": "2020.04 - 2023.04",
       "project_desc": "为自行车铁人三项及公路自行车比赛爱好者以及专业人员提供功率计产品，这个项目主要研发国产的功率计并提供Ant+通信服务，供类似于Garmin、Zwift等设备实时读取数据，帮助运动员更好更科学的训练",
-      "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） \n2. 负责功率计Ant+以及BLE蓝牙的相关设计工作 \n3. 硬件FreeRtos相关开发 \n4.服务端Websocket以及Restful api接口开发(Springboot&Nodejs) \n5.服务端相关服务运维持续化部署(使用了Redis、MySQL、Docker、Elasticsearch等技术)"
+      "project_content": "\n1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） \n2. 负责功率计Ant+以及BLE蓝牙的相关设计工作 \n3. 硬件FreeRtos相关开发 \n4.服务端Websocket以及Restful api接口开发(Springboot&Nodejs) \n5.服务端相关服务运维持续化部署(使用了Redis、MySQL、Docker、Elasticsearch等技术)"
     },
     {
       "project_name": "跑步机Zwift传感器",
       "project_role": "产品开发及运维",
       "project_time": "2018.06 - 2023.04",
       "project_desc": "传统跑步机并没有与虚拟跑步训练App-Zwift互联，甚至老式的连蓝牙或Ant+都不支持，这个项目开发了一款可以支持步频监测、速度、步幅的传感器用于各种样式的跑步机。让运动员可以实时的将数据传至Zwift当中，并支持标准化的数据格式导出，方便后期分析运动期间的不足，更科学的训练",
-      "project_content": "1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） \n2. 负责功率计Ant+以及BLE蓝牙的相关设计工作 \n3. 完成跑步过程中的算法 \n4. 标准化(Garmin)的运动数据导出 \n5. 服务端运维 \n6. 数据库的管理"
+      "project_content": "\n1. 独立负责产品从 0 到 1 的开发、产品功能迭代（在项目中具有推动项目进度的经验） \n2. 负责功率计Ant+以及BLE蓝牙的相关设计工作 \n3. 完成跑步过程中的算法 \n4. 标准化(Garmin)的运动数据导出 \n5. 服务端运维 \n6. 数据库的管理"
     },
     {
       "project_name": "悠数学",
       "project_role": "核心开发者",
       "project_time": "2015.06-2018.06",
       "project_desc": "悠数学是一个专注于STEM K12教育的App，主要为高中生提供数学学习的相关服务，学生可以在App上浏览往年的各种习题，并且也提供了相应的解题思路。",
-      "project_content": "1. 负责服务端开发工作(Springboot）\n2. 前端部分业务逻辑(Angularjs) \n3. 负责服务端的持续化部署工作"
+      "project_content": "\n1. 负责服务端开发工作(Springboot）\n2. 前端部分业务逻辑(Angularjs) \n3. 负责服务端的持续化部署工作"
     }
   ],
   "workList": [],
